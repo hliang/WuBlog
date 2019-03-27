@@ -1,0 +1,3 @@
+graft wubrowser/static
+graft wubrowser/templates
+global-exclude *.pyc
